@@ -1,2 +1,2 @@
 # Python-SnakeGame
-Python Snake Game Built sing pygame module
+Python Snake Game Built using pygame module
